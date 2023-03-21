@@ -23,3 +23,9 @@ Use the command in the terminal `git commit -m "YOUR MESSAGE HERE"`
 ## Github 
 1. Create a repository and give it a unique name. Ex> sbd-mar-2023-unit-1
 2. Copy the last option and paste "push an existing respository..." into terminal.
+
+# Already have a repo or github repo and you want to update with changes. 
+1. `git add .`
+2. `git status` - \to verify(optional)
+3. `git commit -m "ADD NEW MESSAGE HERE"` - Ex " added syling" or fixed bug" 
+4. `git push origin main`
