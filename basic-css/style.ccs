@@ -1,15 +1,21 @@
- #para1 {
-    color: red;
-    margin-bottom: 200px;
- }
+nav {
+    border-bottom: 1px solid black;
+}
 
- #para2 {
-    color: blue;
- }
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
 
- .paragraph {
-    font-size: 24px;
- }
- p{
-    margin-bottom: 50px; 
- }
+.crumb {
+    display: inline-block;
+}
+
+.crumb a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}

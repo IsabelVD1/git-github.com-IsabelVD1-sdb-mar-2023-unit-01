@@ -1,0 +1,5 @@
+- create an index.html
+-create a css files named style.css
+-add boiler plate code to index.html file (! = tab)
+-link the style sheet to the html
+-make the entire webpage color's background to the #eee

@@ -1,0 +1,15 @@
+ #para1 {
+    color: red;
+    margin-bottom: 200px;
+ }
+
+ #para2 {
+    color: blue;
+ }
+
+ .paragraph {
+    font-size: 24px;
+ }
+ p{
+    margin-bottom: 50px; 
+ }
